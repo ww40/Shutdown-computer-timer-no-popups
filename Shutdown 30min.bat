@@ -1,0 +1,1 @@
+start powershell.exe -WindowStyle Hidden -Command "sleep 1800; shutdown -s -t 00"
